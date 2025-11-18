@@ -1,0 +1,7 @@
+# Minimal Bottle - 零依赖Web框架
+# 这个文件是空的，因为Minimal Bottle仅使用Python标准库
+# 不需要任何外部依赖
+
+# 开发依赖（可选）
+# pytest>=6.0.0  # 用于运行测试
+# flake8>=3.8.0  # 用于代码检查
