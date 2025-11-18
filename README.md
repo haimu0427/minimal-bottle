@@ -1,6 +1,6 @@
 # Minimal Bottle - 极简Web框架
 
-一个从Bottle框架精简而来的轻量级Python Web框架，仅包含核心功能，适合学习和快速原型开发。
+一个从Bottle框架精简而来的轻量级Python Web框架，仅包含核心功能，单文件500行左右, 适合学习和快速原型开发。
 
 ## 特点
 
